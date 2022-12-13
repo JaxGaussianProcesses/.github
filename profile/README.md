@@ -5,4 +5,4 @@ JaxGaussianProcesses is dedicated to developing an ecosystem of Gaussian process
 The packages within this organisation can be described as follows 
 * [GPJax](https://github.com/JaxGaussianProcesses/GPJax): Defining Gaussian process priors and posteriors, sparse schemes, and inference techniques.
 * [JaxLinOp](https://github.com/JaxGaussianProcesses/JaxLinOp): Efficient operations for linear operators.
-
+* [JaxUtils](https://github.com/JaxGaussianProcesses/JaxUtils): Auxiliary functions and objects for the JaxGaussianProcesses ecosystem.
